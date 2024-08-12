@@ -1,5 +1,7 @@
 # coldstorageproject
 "scraping data of cold storages in india for analysis"
+Name - Dhruv Bharara
+Email - dhruvbharara2@gmail.com
 
 
 website  = "https://www.napanta.com/cold-storage"
