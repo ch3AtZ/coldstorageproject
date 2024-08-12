@@ -1,8 +1,7 @@
 # coldstorageproject
 "scraping data of cold storages in india for analysis"
 
-Name - Dhruv Bharara
-Email - dhruvbharara2@gmail.com
+
 
 
 website  = "https://www.napanta.com/cold-storage"
@@ -15,10 +14,15 @@ analysis.ipynb -> it does general cleaning and analysis of the dataset
 
 andhrapradesh_analysis.ipynb -> general analyis of the andhra pradesh state
 
-maps -> contains pdfs , kmz files of maps plotted using google maps
+maps -> contains pdfs , kmz files and html files of maps plotted using google maps and folium library on python
 
 data files -> consists of all the data files created during the process
 
 analysis.report -> comprehensive analysis of the dataset
+
+map.py -> uses folium python library to plot map of cold storages all over india using latitudes and longitudes
+
+andhrapradeshmap.py -> uses folium python library to plot map of cold storages in andhra pradesh
+
 
 
