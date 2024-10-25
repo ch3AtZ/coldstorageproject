@@ -48,7 +48,7 @@ def get_lat_lon(address, api_key):
         lat_long['Longitude'].append(None)
         lat_long['Latitude'].append(None)
 
-api_key = "AIzaSyCDdtIvDFj124yemPqpcClIrmQPGMWlZpQ"   # here google maps geocoding api key is used
+  # here google maps geocoding api key is used
 
 for address in addlistnew: #each address is run through the function to generate latitude and longitude 
     get_lat_lon(address, api_key)
